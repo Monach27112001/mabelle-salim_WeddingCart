@@ -92,7 +92,8 @@ JavaScript
 PHP
 MySQL
 XAMPP for local development
-📁 Project Structure
+
+Project Structure
 mabelle-salim-wedding/
 │
 ├── index.php
